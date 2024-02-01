@@ -7,7 +7,7 @@ Olá, seja bem-vindo ao meu GitHub, estudante de Sistemas da Informação pela f
   <a href="https://github.com/MatheusFLima777">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=MatheusFLima777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFLima777&layout=compact&langs_count=10&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFLima777&layout=compact)](https://github.com/MatheusFLima777/github-readme-stats"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFLima777&layout=compact&langs_count=10&theme=dracula"/>
 </div>
     
 <div style="display: center"><br>
