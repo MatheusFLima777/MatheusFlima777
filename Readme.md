@@ -1,6 +1,6 @@
 ### 💻 Matheus Ferreira Lima :brazil:
 <hr>
-Olá, seja bem-vindo ao meu GitHub, estudante de Sistemas da Informação pela faculdade Uninove e atualmente ocupo o cargo de Analista de Service Desk Jr na Transportes Della Volpe.
+Olá, seja bem-vindo ao meu GitHub, estudante de Sistemas da Informação pela faculdade Uninove e atualmente ocupo o cargo de Analista de Service Desk Sr na Transportes Della Volpe.
 
 <div align="center">
   <br></br>
